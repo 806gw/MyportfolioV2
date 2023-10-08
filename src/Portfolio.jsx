@@ -2,6 +2,7 @@ import React from "react";
 import reactIcon from './assets/react-svgrepo-com (2).svg';
 export default function Portfolio () {
   return (
+    <div className="back-ground">
     <div className="card-box">
       <div className="card">
         <div className="img"></div>
@@ -67,6 +68,7 @@ export default function Portfolio () {
           </svg>
         </div>
       </div>
+    </div>
     </div>
   );
 }

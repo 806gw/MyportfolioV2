@@ -1,4 +1,7 @@
-
+body {
+  background: rgb(122,121,121);
+  background: radial-gradient(circle, rgba(122,121,121,1) 0%, rgba(0,0,0,1) 91%);
+}
 
 .card-box {
   display: flex;
