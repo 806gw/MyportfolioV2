@@ -3,13 +3,13 @@ body {
   background: radial-gradient(circle, rgba(122,121,121,1) 0%, rgba(0,0,0,1) 91%);
 }
 
-.card-box {
+.back-ground {
   display: flex;
   justify-content: center;
   align-items: center;
-  margin-top: 10rem;  
+  width: 100vw;
+  height: 100vh;
 }
-
 
 .card {
   width: 24em;
