@@ -15,8 +15,8 @@ export default function Portfolio () {
           <a href="https://github.com/806gw" className="git" target="blank">
             <svg
               xmlns="http://www.w3.org/2000/svg"
-              width="30"
-              height="30"
+              width="40"
+              height="40"
               fill="currentColor"
               className="bi bi-github"
               viewBox="0 0 16 16"
@@ -31,8 +31,8 @@ export default function Portfolio () {
           >
             <svg
               xmlns="http://www.w3.org/2000/svg"
-              width="30"
-              height="30"
+              width="40"
+              height="40"
               fill="currentColor"
               className="bi bi-twitter"
               viewBox="0 -28.5 256 256"
@@ -47,8 +47,8 @@ export default function Portfolio () {
           >
             <svg
               xmlns="http://www.w3.org/2000/svg"
-              width="30"
-              height="30"
+              width="40"
+              height="40"
               fill="currentColor"
               className="bi bi-instagram"
               viewBox="0 0 16 16"
@@ -58,8 +58,8 @@ export default function Portfolio () {
           </a>
           <svg
             xmlns="http://www.w3.org/2000/svg"
-            width="30"
-            height="30"
+            width="40"
+            height="40"
             fill="currentColor"
             className="react"
             viewBox="0 0 32 32"
